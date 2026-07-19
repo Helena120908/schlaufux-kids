@@ -271,6 +271,17 @@ a { color: inherit; }
 }
 .trust-icon { font-size: 28px; }
 
+/* ---------- Legal pages ---------- */
+.legal-page { padding: 50px 0 70px; }
+.legal-page .wrap { max-width: 760px; }
+.legal-back { display: inline-block; margin-bottom: 26px; font-weight: 700; text-decoration: none; color: var(--navy); }
+.legal-page h1 { font-size: 30px; margin-bottom: 6px; }
+.legal-updated { color: var(--text-soft); font-size: 13px; margin-bottom: 34px; }
+.legal-page h2 { font-size: 19px; margin-top: 36px; margin-bottom: 10px; }
+.legal-page p, .legal-page li { font-size: 15px; color: var(--text); margin-bottom: 12px; }
+.legal-page ul { padding-left: 22px; }
+.legal-page a.inline-link { color: var(--teal); font-weight: 700; }
+
 /* ---------- Footer ---------- */
 .site-footer { padding: 40px 0 30px; text-align: center; }
 .footer-logo { height: 44px; margin: 0 auto 16px; }
