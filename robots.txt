@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helena120908.github.io/schlaufux-kids/sitemap.xml
